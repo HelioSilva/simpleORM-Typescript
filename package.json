@@ -1,0 +1,23 @@
+{
+  "name": "simple-type-orm",
+  "version": "1.0.1",
+  "description": "A simple Typescript ORM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HelioSilva/simpleORM-Typescript.git"
+  },
+  "keywords": [
+    "orm",
+    "typescript"
+  ],
+  "author": "Helio Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HelioSilva/simpleORM-Typescript/issues"
+  },
+  "homepage": "https://github.com/HelioSilva/simpleORM-Typescript#readme"
+}
